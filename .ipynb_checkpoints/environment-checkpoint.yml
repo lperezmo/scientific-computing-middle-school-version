@@ -1,0 +1,9 @@
+name: scientific-computing-middle-school
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - ipywidgets
+  - pyautogui
+  - numpy
