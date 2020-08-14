@@ -1,7 +1,7 @@
 # An open-source scientific computing course for middle school students
 
-[![Binder](https://mybinder.org/badge.svg)]()
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lperezmo/scientific-computing-middle-school-version/master)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/lperezmo/scientific-computing-middle-school-version/blob/master/Project_templates)
 
 A teaching module designed to introduce middle school students to the basics of Python programming. The larger goal of this repository is to encourage early exposure to Python programming among Middle School students, especially underrepresented minority communities in STEM.
 
