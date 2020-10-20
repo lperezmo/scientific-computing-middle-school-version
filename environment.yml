@@ -8,4 +8,3 @@ dependencies:
   - pyautogui
   - numpy
   - scipy
-  - time
