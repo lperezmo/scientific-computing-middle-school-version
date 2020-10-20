@@ -7,3 +7,5 @@ dependencies:
   - ipywidgets
   - pyautogui
   - numpy
+  - scipy
+  - time
