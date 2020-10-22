@@ -2,6 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lperezmo/scientific-computing-middle-school-version/master)
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/lperezmo/scientific-computing-middle-school-version/blob/master/Project_templates)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4119090.svg)](https://doi.org/10.5281/zenodo.4119090)
 
 A teaching module designed to introduce middle school students to the basics of Python programming. The larger goal of this repository is to encourage early exposure to Python programming among Middle School students, especially underrepresented minority communities in STEM and student's whose first language is not English.
 
