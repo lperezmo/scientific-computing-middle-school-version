@@ -6,6 +6,10 @@
 
 A teaching module designed to introduce middle school students to the basics of Python programming. The larger goal of this repository is to encourage early exposure to Python programming among Middle School students, especially underrepresented minority communities in STEM and student's whose first language is not English.
 
+## Get started
+Watch our short introductory video! 
+https://youtu.be/NoOpkPEZSlk
+
 
 ## Contents
 
